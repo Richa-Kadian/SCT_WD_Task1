@@ -6,11 +6,11 @@
         }
 
         :root {
-            --primary: #1e3a8a; /* Deep Blue */
-            --secondary: #1e40af; /* Slightly Lighter Blue */
-            --dark: #111827; /* Dark Navy */
-            --light: #f9fafb; /* Off-White */
-            --accent: #f59e0b; /* Warm Gold */
+            --primary: #1e3a8a; 
+            --secondary: #1e40af; 
+            --dark: #111827;
+            --light: #f9fafb; 
+            --accent: #f59e0b; 
             --transition: all 0.4s ease;
         }
 
@@ -21,7 +21,6 @@
             line-height: 1.6;
         }
 
-        /* Navigation Styles */
         nav {
             position: fixed;
             top: 0;
@@ -145,7 +144,6 @@
             animation: fadeIn 0.5s ease-out;
         }
 
-        /* Hero Section */
         .hero {
             height: 100vh;
             display: flex;
@@ -243,7 +241,6 @@
             animation: bounceIn 1.5s ease-out;
         }
 
-        /* Common Section Styles */
         .section {
             padding: 8rem 5%;
             background: linear-gradient(to bottom, #111827, #1e3a8a);
@@ -310,7 +307,6 @@
             line-height: 1.6;
         }
 
-        /* Stats Section */
         .stats {
             padding: 6rem 5%;
             background: rgba(17, 24, 39, 0.7);
@@ -342,7 +338,6 @@
             color: #d1d5db;
         }
 
-        /* Footer */
         footer {
             background: #111827;
             padding: 4rem 5% 2rem;
@@ -425,7 +420,6 @@
             font-size: 0.9rem;
         }
 
-        /* Responsive Design */
         @media (max-width: 992px) {
             .hero {
                 flex-direction: column;
@@ -503,7 +497,6 @@
             }
         }
 
-        /* Animations */
         @keyframes fadeIn {
             from { opacity: 0; }
             to { opacity: 1; }
