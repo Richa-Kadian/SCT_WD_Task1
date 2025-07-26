@@ -26,8 +26,9 @@ It features a fixed and interactive navigation bar, smooth scroll effects, respo
     cd SCT_WD_Task1
    
 3. Open in browser (no server required):
-    open index.html  # Mac
-    start index.html # Windows
+   ```bash
+   open responsive_landing_page.html   # Mac  
+   start responsive_landing_page.html  # Windows
 
 ## 📽️ Demo
 🎬 [Click to View Video](https://drive.google.com/file/d/1e4dKdMjPIQu8o2qxX42O8GY-w7dHhAky/view?usp=sharing)
