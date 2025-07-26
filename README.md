@@ -23,6 +23,7 @@ It features a fixed and interactive navigation bar, smooth scroll effects, respo
    git clone https://github.com/Richa-Kadian/SCT_WD_Task1.git
 
 2. Navigate to project directory:
+   ```bash
     cd SCT_WD_Task1
    
 3. Open in browser (no server required):
